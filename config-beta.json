@@ -1,0 +1,35 @@
+{
+  "elasticsearch": {
+    "knowledgeBaseArticle": "knowledgebase_article"
+  },
+  "couchbase": {
+    "buckets": {
+      "session": "tax_crm_v2_beta",
+      "db": "tax_crm_v2_beta",
+      "knowledgeBase": "tax_crm_v2_beta"
+    },
+    "defaultBucket": "tax_crm_v2_beta"
+  },
+  "server": {
+    "CORS": {
+      "allowedHosts": [
+        "https://betacrm.advanced-taxsolutions.com",
+				"http://betacrm.advanced-taxsolutions.com",
+        "http://localhost:3010",
+        "http://localhost:4200"
+      ]
+    },
+    "security": {
+      "emailSalt": "$2a$10$e.oPc.dyrwRoQCpDvO9Rhe"
+    },
+    "session": {
+      "cookieSecret": "TaxSoftwareOnline",
+      "maxAge": 1800000,
+      "saveUninitialized": false,
+      "rolling": true
+    },
+    "bodyParser": {
+      "limit": "2mb"
+    }
+  }
+}

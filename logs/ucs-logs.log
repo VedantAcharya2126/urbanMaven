@@ -1,0 +1,766 @@
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2021-12-22T07:09:27.444Z"}
+{"level":"info","message":"Environment: beta","timestamp":"2021-12-22T07:09:27.446Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:12:42.133Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:12:42.135Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:13:45.742Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:13:45.743Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:13:45.744Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:14:06.012Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:14:06.015Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:14:08.414Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:14:08.414Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:14:08.415Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:14:08.437Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:14:36.046Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:14:36.047Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:14:37.966Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:14:37.967Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:14:37.968Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:14:37.993Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:02.207Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:02.208Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:04.151Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:04.152Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:04.154Z"}
+{"level":"error","message":"Error in read file: Error: ENOENT: no such file or directory, open 'E:\\Node_Api\\sampleData.json'","timestamp":"2022-01-27T09:15:04.160Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:11.834Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:11.835Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:14.006Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:14.007Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:14.008Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:15:14.034Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:40.300Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:40.302Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:43.231Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:43.233Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:43.234Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:15:43.260Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:16:51.247Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:16:51.249Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:16:54.310Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:16:54.311Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:16:54.312Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read property 'code_2000' of undefined","timestamp":"2022-01-27T09:16:54.326Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:18:04.013Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:18:04.016Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:18:06.374Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:18:06.376Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:18:06.378Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:18:43.491Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:18:43.493Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:18:45.856Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:18:45.857Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:18:45.858Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:19:27.862Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:19:27.864Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:19:30.551Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:19:30.552Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:19:30.553Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:21:52.361Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:21:52.363Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:21:55.257Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:21:55.258Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:21:55.259Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:22:37.690Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:22:37.691Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:35:47.601Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:35:47.603Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:36:57.580Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:36:57.580Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:36:57.584Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:40:26.688Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:40:26.690Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:46:57.631Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:46:57.633Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:47:02.770Z"}
+{"level":"info","message":"request body:- {\"id\":11}","timestamp":"2022-01-27T09:47:02.771Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":11}","timestamp":"2022-01-27T09:47:02.772Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:24:21.885Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:24:21.887Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:26:17.488Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:26:17.491Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:52:00.538Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:52:00.540Z"}
+{"level":"info","message":"//customer/getData request from:- ::1","timestamp":"2022-01-27T10:52:20.130Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T10:52:20.131Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:54:44.325Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:54:44.328Z"}
+{"level":"info","message":"//customer/getData request from:- ::1","timestamp":"2022-01-27T10:54:47.857Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T10:54:47.858Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:55:55.900Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:55:55.902Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T10:56:30.008Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T10:56:30.011Z"}
+{"level":"info","message":"//customer/getData request from:- ::1","timestamp":"2022-01-27T10:56:34.199Z"}
+{"level":"info","message":"request body:- {\"id\":2}","timestamp":"2022-01-27T10:56:34.199Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T10:58:34.634Z"}
+{"level":"info","message":"request body:- {\"id\":2}","timestamp":"2022-01-27T10:58:34.634Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":2}","timestamp":"2022-01-27T10:58:34.636Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:15:41.511Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:15:41.513Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:18:12.405Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:18:12.408Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:20:23.042Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"shubham\",\"lastName\":\"vyas\",\"age\":28,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T11:20:23.043Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3}","timestamp":"2022-01-27T11:20:23.044Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:24:01.442Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:24:01.444Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:25:07.107Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:25:07.108Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:25:07.110Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:25:59.761Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:25:59.763Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:26:04.598Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:26:04.598Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:26:04.600Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:28:30.080Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:28:30.083Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:28:36.569Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:28:36.570Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:28:36.571Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:31:48.086Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:31:48.089Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:31:52.502Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:31:52.503Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:31:52.504Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:38:49.526Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:38:49.528Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:38:57.260Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:38:57.261Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:38:57.262Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:41:24.541Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:41:24.544Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:41:28.166Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:41:28.167Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:41:28.169Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:43:01.560Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:43:01.562Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:43:05.371Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:43:05.373Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:43:05.375Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:47:25.594Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:47:25.597Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:47:28.199Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:47:28.200Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:47:28.202Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:47:48.323Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:47:48.326Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:47:52.368Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:47:52.369Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:47:52.371Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:48:31.420Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:48:31.423Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:48:34.167Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:48:34.168Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:48:34.169Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:48:48.250Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:48:48.252Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:48:54.520Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:48:54.521Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:48:54.523Z"}
+{"level":"error","message":"Uncaught exception: TypeError: Cannot set properties of null (setting 'code')","timestamp":"2022-01-27T11:48:54.576Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:49:23.134Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:49:23.137Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:49:25.873Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:49:25.874Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:49:25.875Z"}
+{"level":"error","message":"Uncaught exception: TypeError: Cannot set properties of null (setting 'code')","timestamp":"2022-01-27T11:49:25.911Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:50:31.335Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:50:31.338Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:50:34.798Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:50:34.799Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:50:34.801Z"}
+{"level":"error","message":"Uncaught exception: TypeError: Cannot set properties of null (setting 'code')","timestamp":"2022-01-27T11:50:34.848Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:50:45.887Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:50:45.890Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:50:49.019Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:50:49.020Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:50:49.022Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read properties of null (reading 'code')","timestamp":"2022-01-27T11:50:49.048Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:51:31.611Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:51:31.614Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:51:34.157Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:51:34.158Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:51:34.159Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read properties of null (reading 'code')","timestamp":"2022-01-27T11:51:34.180Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:52:18.693Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:52:18.696Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:52:21.314Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:52:21.315Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:52:21.316Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:57:01.938Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:57:01.961Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:57:04.677Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:57:04.678Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:57:04.679Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read properties of null (reading 'code')","timestamp":"2022-01-27T11:57:04.709Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T11:57:39.747Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T11:57:39.750Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T11:57:43.382Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:57:43.383Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T11:57:43.385Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read properties of null (reading 'code')","timestamp":"2022-01-27T11:57:43.406Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:03:03.769Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:03:03.771Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:03:06.468Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:03:06.469Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:03:06.471Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read properties of null (reading 'code')","timestamp":"2022-01-27T12:03:06.488Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:04:37.676Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:04:37.678Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:04:41.681Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:04:41.682Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:04:41.683Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:05:16.413Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:05:16.416Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:05:19.236Z"}
+{"level":"info","message":"request body:- {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:05:19.237Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":3,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge,New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:05:19.238Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:06:22.209Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:06:22.211Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:07:57.745Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:07:57.747Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:08:00.373Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:08:00.374Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:08:00.375Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:08:39.893Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:08:39.896Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:08:43.076Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:08:43.077Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:08:43.079Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:08:58.089Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:08:58.092Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:09:00.894Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:00.896Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:00.897Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:09:16.921Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:09:16.923Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:09:20.366Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:20.367Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:20.369Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:09:48.217Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:09:48.219Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:09:51.262Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:51.263Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:09:51.265Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:11:51.712Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:11:51.715Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:11:57.437Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:11:57.437Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:11:57.439Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:13:26.799Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:13:26.801Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:13:29.474Z"}
+{"level":"info","message":"request body:- {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:13:29.475Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":4,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:13:29.476Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:18:47.850Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:18:47.853Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:18:58.410Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:18:58.413Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:19:14.650Z"}
+{"level":"info","message":"request body:- {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:19:14.651Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:19:14.652Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:20:04.099Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:20:04.102Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:20:06.569Z"}
+{"level":"info","message":"request body:- {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:20:06.570Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:20:06.571Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:20:36.526Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:20:36.528Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T12:20:39.265Z"}
+{"level":"info","message":"request body:- {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:20:39.266Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":5,\"firstName\":\"Sonal\",\"lastName\":\"Acharya\",\"age\":47,\"address\":{\"addr1\":\"Samarpan Complex\",\"addr2\":\"Near GEB Office,Songadh\",\"city\":\"Songadh\",\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T12:20:39.268Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:48:27.721Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:48:27.723Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T12:48:54.570Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T12:48:54.572Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T12:48:54.574Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:58:51.744Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:58:51.747Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T12:59:20.824Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T12:59:20.826Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:04:07.175Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:04:07.178Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:08:02.219Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:08:02.222Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:09:47.735Z"}
+{"level":"info","message":"request body:- {\"id\":6,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":51,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:09:47.736Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":6,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":51,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:09:47.737Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:12:43.602Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:12:43.605Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:13:06.555Z"}
+{"level":"info","message":"request body:- {\"id\":7,\"firstName\":\"Pinky\",\"lastName\":\"Vyas\",\"age\":45,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:13:06.555Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":7,\"firstName\":\"Pinky\",\"lastName\":\"Vyas\",\"age\":45,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:13:06.557Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:14:17.654Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:14:17.657Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:15:13.183Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Gopal\",\"lastName\":\"Vyas\",\"age\":44,\"address\":{\"addr1\":\"Sholok Parisar\",\"addr2\":\"TB cross road, Patan\",\"city\":\"Patan\",\"zipcode\":\"384265\"}}","timestamp":"2022-01-27T13:15:13.183Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Gopal\",\"lastName\":\"Vyas\",\"age\":44,\"address\":{\"addr1\":\"Sholok Parisar\",\"addr2\":\"TB cross road, Patan\",\"city\":\"Patan\",\"zipcode\":\"384265\"}}","timestamp":"2022-01-27T13:15:13.185Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"id\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"id\",\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"firstName\":\"Gopal\",\"lastName\":\"Vyas\",\"age\":44,\"address\":{\"addr1\":\"Sholok Parisar\",\"addr2\":\"TB cross road, Patan\",\"city\":\"Patan\",\"zipcode\":\"384265\"}},\"name\":\"required\",\"argument\":\"id\",\"stack\":\"instance requires property \\\"id\\\"\"}]","timestamp":"2022-01-27T13:15:13.190Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:16:21.717Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:16:21.719Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:16:25.785Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Gopal\",\"lastName\":\"Vyas\",\"age\":44,\"address\":{\"addr1\":\"Sholok Parisar\",\"addr2\":\"TB cross road, Patan\",\"city\":\"Patan\",\"zipcode\":\"384265\"}}","timestamp":"2022-01-27T13:16:25.786Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Gopal\",\"lastName\":\"Vyas\",\"age\":44,\"address\":{\"addr1\":\"Sholok Parisar\",\"addr2\":\"TB cross road, Patan\",\"city\":\"Patan\",\"zipcode\":\"384265\"}}","timestamp":"2022-01-27T13:16:25.787Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:23:02.353Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:23:02.355Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:24:49.077Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:24:49.080Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:27:56.297Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:27:56.300Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:30:34.478Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:30:34.481Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:31:28.075Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:31:28.078Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:31:31.164Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:31:31.167Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:31:31.169Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"lastName\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"lastName\",\"stack\":\"instance requires property \\\"lastName\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"age\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"age\",\"stack\":\"instance requires property \\\"age\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"address\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"address\",\"stack\":\"instance requires property \\\"address\\\"\"}]","timestamp":"2022-01-27T13:31:31.174Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:32:11.970Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:32:11.973Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:32:15.162Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:32:15.163Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:32:15.165Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"lastName\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"lastName\",\"stack\":\"instance requires property \\\"lastName\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"age\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"age\",\"stack\":\"instance requires property \\\"age\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"address\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"address\",\"stack\":\"instance requires property \\\"address\\\"\"}]","timestamp":"2022-01-27T13:32:15.168Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:34:14.981Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:34:14.984Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:34:22.171Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:34:22.172Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:34:22.173Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"lastName\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"lastName\",\"stack\":\"instance requires property \\\"lastName\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"age\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"age\",\"stack\":\"instance requires property \\\"age\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"address\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"address\",\"stack\":\"instance requires property \\\"address\\\"\"}]","timestamp":"2022-01-27T13:34:22.176Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:36:42.606Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:36:42.609Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:36:46.412Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:36:46.413Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:36:46.415Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"lastName\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"lastName\",\"stack\":\"instance requires property \\\"lastName\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"age\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"age\",\"stack\":\"instance requires property \\\"age\\\"\"},{\"path\":[],\"property\":\"instance\",\"message\":\"requires property \\\"address\\\"\",\"schema\":{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\"},\"firstName\":{\"type\":\"string\"},\"lastName\":{\"type\":\"string\"},\"age\":{\"type\":\"integer\"},\"address\":{\"type\":\"object\",\"properties\":{\"addr1\":{\"type\":\"string\"},\"addr2\":{\"type\":\"string\"},\"city\":{\"type\":\"string\"},\"zipcode\":{\"type\":\"string\"}},\"required\":[\"addr1\",\"addr2\",\"city\",\"zipcode\"]}},\"required\":[\"firstName\",\"lastName\",\"age\",\"address\"]},\"instance\":{\"id\":1,\"firstName\":\"uday\"},\"name\":\"required\",\"argument\":\"address\",\"stack\":\"instance requires property \\\"address\\\"\"}]","timestamp":"2022-01-27T13:36:46.420Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T13:37:55.754Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":28,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:37:55.755Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":28,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:37:55.758Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T13:38:10.563Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":28,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:38:10.564Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\",\"lastName\":\"acharya\",\"age\":28,\"address\":{\"addr1\":\"kunj society\",\"addr2\":\"radhaswami road, ranip\",\"city\":\"ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T13:38:10.566Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:38:38.537Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:38:38.540Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T13:39:06.828Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:39:06.829Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:39:06.831Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:40:41.309Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:40:41.311Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T13:40:56.200Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:40:56.202Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:40:56.204Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:42:33.607Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:42:33.609Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T13:42:35.590Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:42:35.591Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:42:35.593Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T13:43:12.523Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T13:43:12.526Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T13:43:15.014Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:43:15.015Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"uday\"}","timestamp":"2022-01-27T13:43:15.016Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:13:12.842Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:13:12.846Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:16:56.823Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:16:56.825Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:19:27.713Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:19:27.716Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T16:20:27.514Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Yug\",\"lastName\":\"Vyas\",\"age\":5,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T16:20:27.517Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Yug\",\"lastName\":\"Vyas\",\"age\":5,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T16:20:27.522Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:24:25.173Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Yug\"}","timestamp":"2022-01-27T16:24:25.175Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Yug\"}","timestamp":"2022-01-27T16:24:25.178Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:25:01.993Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:25:01.996Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:25:04.888Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Yug\"}","timestamp":"2022-01-27T16:25:04.891Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Yug\"}","timestamp":"2022-01-27T16:25:04.894Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:29:55.411Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:29:55.414Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:30:48.248Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"address\":{\"city\":\"Songadh\"}}","timestamp":"2022-01-27T16:30:48.251Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"address\":{\"city\":\"Songadh\"}}","timestamp":"2022-01-27T16:30:48.255Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:43:16.354Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:43:16.358Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:44:36.884Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:44:36.887Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:45:01.397Z"}
+{"level":"info","message":"request body:- {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:45:01.399Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:45:01.404Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:45:56.093Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:45:56.095Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:46:00.115Z"}
+{"level":"info","message":"request body:- {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:46:00.117Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:46:00.119Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:46:31.932Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:46:31.937Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-27T16:46:34.979Z"}
+{"level":"info","message":"request body:- {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:46:34.981Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":2,\"firstName\":\"Dakshay\",\"lastName\":\"Vyas\",\"address\":{\"city\":\"Ahmedabad\"}}","timestamp":"2022-01-27T16:46:34.983Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T16:50:23.510Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T16:50:23.513Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T16:50:57.047Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T16:50:57.049Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T16:50:57.053Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T17:08:12.018Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T17:08:12.021Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-27T17:08:19.931Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T17:08:19.934Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-27T17:08:19.939Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:50:36.782Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:50:36.786Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:51:29.145Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:51:29.147Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:51:29.151Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:51:56.228Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:51:56.233Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:51:58.464Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:51:58.466Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:51:58.470Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:53:27.481Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:53:27.488Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:53:31.770Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:53:31.772Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:53:31.775Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:54:43.954Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:54:43.957Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:54:49.392Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:54:49.394Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"address\":{\"addr1\":\"Shyam Hills\",\"addr2\":\"GST Bridge, New Ranip\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T06:54:49.398Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:56:48.726Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:56:48.730Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:56:48.732Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:57:40.132Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:57:40.136Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:57:42.623Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:57:42.624Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:57:42.627Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:58:07.293Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:58:07.296Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:58:10.279Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:58:10.281Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:58:10.285Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T06:59:55.338Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T06:59:55.343Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T06:59:58.747Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:59:58.749Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T06:59:58.753Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:00:21.690Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:00:21.693Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:00:24.928Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:00:24.929Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:00:24.932Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:00:41.473Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:00:41.477Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:00:43.857Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:00:43.859Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:00:43.861Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:01:37.192Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:01:37.196Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:01:48.477Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:01:48.480Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:01:48.484Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:02:03.872Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:02:03.875Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:02:08.221Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:02:08.223Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:02:08.225Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:02:52.012Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:02:52.016Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:03:00.660Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:00.662Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:00.667Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:03:23.153Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:23.154Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:23.155Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:03:32.445Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:03:32.450Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:03:35.370Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:35.372Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:03:35.377Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:03:59.258Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:03:59.261Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:04:02.824Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:02.826Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:02.829Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:04:27.487Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:04:27.491Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:04:30.991Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:30.993Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:30.996Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:04:51.138Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:04:51.143Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:04:53.720Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:53.722Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:04:53.727Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:05:45.314Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:05:45.317Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:05:48.823Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:05:48.825Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:05:48.828Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:06:36.922Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:06:36.925Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:06:39.968Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:06:39.969Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:06:39.972Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:07:12.432Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:07:12.435Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:08:09.797Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:08:09.799Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:08:09.803Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:08:40.170Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:08:40.173Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:08:50.335Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:08:50.337Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:08:50.340Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:08:59.603Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:08:59.607Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:09:02.998Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:09:02.999Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:09:03.002Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:09:36.528Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:09:36.531Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:09:40.187Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:09:40.190Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:09:40.193Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:10:38.410Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:10:38.414Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:10:42.159Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:10:42.162Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:10:42.166Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:12:02.871Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:12:02.874Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:12:06.144Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:12:06.146Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:12:06.150Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:12:41.911Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:12:41.914Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:12:44.168Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:12:44.169Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:12:44.172Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:13:05.060Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:13:05.064Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:13:10.601Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:13:10.603Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:13:10.607Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:14:56.678Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:14:56.681Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:14:59.627Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:14:59.629Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:14:59.632Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:15:18.591Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:15:18.594Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:15:21.153Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:15:21.154Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:15:21.156Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:15:47.636Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:15:47.641Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:16:00.827Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:16:00.830Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:16:00.833Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:16:51.266Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:16:51.269Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:16:55.891Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:16:55.893Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:16:55.895Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:17:13.316Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:17:13.319Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:17:17.955Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:17.956Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:17.959Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:17:27.767Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:17:27.771Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:17:30.015Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:30.017Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:30.020Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:17:43.018Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:17:43.021Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:17:45.699Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:45.701Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:17:45.705Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:18:17.814Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:18:17.816Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:18:17.818Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:18:23.748Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:18:23.751Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:18:26.513Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:18:26.516Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:18:26.519Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:21:10.075Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:21:10.078Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:21:12.901Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:21:12.903Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:21:12.906Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:21:38.281Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"zipcode\":\"384265\"}","timestamp":"2022-01-28T07:21:38.283Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:21:38.290Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:21:50.405Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"zipcode\":\"384265\"}","timestamp":"2022-01-28T07:21:50.406Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:21:50.408Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:22:01.887Z"}
+{"level":"info","message":"request body:- {\"id\":2,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36,\"zipcode\":384265}","timestamp":"2022-01-28T07:22:01.888Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":2,\"firstName\":\"Kiran\",\"lastName\":\"Vyas\",\"age\":36}","timestamp":"2022-01-28T07:22:01.894Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:22:50.946Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:22:50.949Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:23:16.943Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"zipcode\":384265}","timestamp":"2022-01-28T07:23:16.946Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21}","timestamp":"2022-01-28T07:23:16.952Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:24:17.861Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"addr1\":\"Samarpan Complex\"}","timestamp":"2022-01-28T07:24:17.862Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21}","timestamp":"2022-01-28T07:24:17.865Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:24:39.849Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\"}}","timestamp":"2022-01-28T07:24:39.851Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"Samarpan Complex\"}}","timestamp":"2022-01-28T07:24:39.853Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:27:05.958Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:27:05.960Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:27:05.961Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:31:18.504Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:31:18.507Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:31:25.400Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:31:25.402Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Uday\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:31:25.408Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:32:43.450Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:32:43.452Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:32:43.454Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:34:47.187Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:34:47.191Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:34:54.450Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:34:54.452Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:34:54.455Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:35:25.322Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:35:25.325Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:35:29.846Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:35:29.850Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:35:32.938Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:35:32.939Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:35:32.942Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:36:13.642Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:36:13.646Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:36:15.747Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:36:15.748Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:36:15.749Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:36:49.812Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:36:49.815Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:36:59.589Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:36:59.592Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"vedant\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:36:59.596Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T07:37:07.560Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:37:07.562Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Dhyani\",\"lastName\":\"Acharya\",\"age\":21,\"address\":{\"addr1\":\"shyam hills\"}}","timestamp":"2022-01-28T07:37:07.565Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T07:38:39.213Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T07:38:39.216Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-28T07:40:08.393Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Himanshu\",\"lastName\":\"Acharya\",\"age\":53,\"address\":{\"addr1\":\"GEB Colony\",\"addr2\":\"Sector-28\",\"city\":\"Gandhinagar\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T07:40:08.395Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Himanshu\",\"lastName\":\"Acharya\",\"age\":53,\"address\":{\"addr1\":\"GEB Colony\",\"addr2\":\"Sector-28\",\"city\":\"Gandhinagar\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T07:40:08.399Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-28T10:50:40.449Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-28T10:50:40.451Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-28T10:50:58.497Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"chhaya\",\"lastName\":\"Acharya\",\"age\":50,\"address\":{\"addr1\":\"GEB Colony\",\"addr2\":\"Sector-28\",\"city\":\"Gandhinagar\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T10:50:58.499Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"chhaya\",\"lastName\":\"Acharya\",\"age\":50,\"address\":{\"addr1\":\"GEB Colony\",\"addr2\":\"Sector-28\",\"city\":\"Gandhinagar\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T10:50:58.502Z"}
+{"level":"info","message":"/customer/updateData request from:- ::1","timestamp":"2022-01-28T10:52:17.916Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Aanchal\",\"lastName\":\"Jsohi\",\"age\":19,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Ghatlodia\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T10:52:17.917Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Aanchal\",\"lastName\":\"Jsohi\",\"age\":19,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Ghatlodia\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-28T10:52:17.919Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T06:54:31.169Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T06:54:31.172Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-31T06:55:26.982Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"Aanchal\",\"lastName\":\"Jsohi\",\"age\":13}","timestamp":"2022-01-31T06:55:26.985Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"Aanchal\",\"lastName\":\"Jsohi\",\"age\":13}","timestamp":"2022-01-31T06:55:26.989Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-31T06:56:38.309Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Aakash\",\"lastName\":\"Rawal\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T06:56:38.310Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"Aakash\",\"lastName\":\"Rawal\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T06:56:38.312Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T07:01:58.232Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T07:01:58.235Z"}
+{"level":"info","message":"/customer/addData request from:- ::1","timestamp":"2022-01-31T07:02:22.137Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"omi\",\"lastName\":\"Patel\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T07:02:22.139Z"}
+{"level":"info","message":"/customer/addUpdateData request from:- ::1","timestamp":"2022-01-31T07:03:08.627Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"omi\",\"lastName\":\"Patel\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T07:03:08.628Z"}
+{"level":"info","message":"Save Rejection Details data: {\"firstName\":\"omi\",\"lastName\":\"Patel\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T07:03:08.633Z"}
+{"level":"info","message":"/customer/addUpdateData request from:- ::1","timestamp":"2022-01-31T07:03:29.416Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"firstName\":\"omi\",\"lastName\":\"Patel\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T07:03:29.418Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1,\"firstName\":\"omi\",\"lastName\":\"Patel\",\"age\":23,\"address\":{\"addr1\":\"yogeshwar Park Society\",\"addr2\":\"Star Bajar satellite\",\"city\":\"Ahmedabad\",\"zipcode\":\"382480\"}}","timestamp":"2022-01-31T07:03:29.420Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T14:29:26.641Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T14:29:26.646Z"}
+{"level":"error","message":"Uncaught exception: Error: listen EADDRINUSE: address already in use :::3000","timestamp":"2024-10-29T13:27:58.155Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T13:29:01.962Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T13:29:01.963Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T13:58:06.002Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T13:58:06.004Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T13:58:37.571Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T13:58:37.571Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T16:32:54.449Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T16:32:54.450Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T16:34:11.600Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T16:34:11.607Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T16:34:29.504Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T16:34:29.504Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-29T16:35:05.133Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-29T16:35:05.134Z"}
+{"level":"info","message":"/favicon.ico request from:- ::1","timestamp":"2024-10-29T16:35:05.236Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-29T16:35:05.236Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-29T20:19:29.161Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-29T20:19:29.166Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-29T20:19:56.146Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-29T20:19:56.147Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T03:41:47.293Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T03:41:47.298Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T03:51:21.786Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T03:51:21.787Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T03:52:12.045Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T03:52:12.046Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T03:52:42.959Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T03:52:42.960Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T03:53:25.190Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T03:53:25.191Z"}
+{"level":"error","message":"Uncaught exception: Error: \"database\" connection config property must be a string","timestamp":"2024-10-30T03:53:25.221Z"}
+{"level":"error","message":"Uncaught exception: Error: Connection lost: The server closed the connection.","timestamp":"2024-10-30T03:53:35.225Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:35:34.231Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:35:34.232Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-30T04:35:42.902Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T04:35:42.902Z"}
+{"level":"info","message":"/ request from:- ::1","timestamp":"2024-10-30T04:35:47.320Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T04:35:47.320Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:40:02.681Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:40:02.686Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:41:41.445Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:41:41.446Z"}
+{"level":"error","message":"Uncaught exception: ReferenceError: logger is not defined","timestamp":"2024-10-30T04:41:41.458Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:42:57.207Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:42:57.213Z"}
+{"level":"error","message":"Connected to MySQL database","timestamp":"2024-10-30T04:42:57.227Z"}
+{"level":"error","message":"Connected to MySQL database","timestamp":"2024-10-30T04:42:57.228Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:43:31.434Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:43:31.435Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:43:31.445Z"}
+{"level":"info","message":"/ request from:- ::1","timestamp":"2024-10-30T04:43:38.609Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T04:43:38.610Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-30T04:43:42.811Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T04:43:42.812Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:44:52.467Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:44:52.467Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:44:52.478Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:47:44.285Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:48:10.815Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:52:02.861Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T04:54:03.332Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T04:54:03.333Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:54:03.348Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T04:54:03.349Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-30T04:54:17.174Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T04:54:17.174Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T05:06:14.842Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T05:06:14.843Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:06:14.869Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:06:14.870Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T05:24:24.010Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T05:24:24.011Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:24:24.039Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:24:24.039Z"}
+{"level":"info","message":"/users request from:- ::1","timestamp":"2024-10-30T05:24:44.126Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2024-10-30T05:24:44.127Z"}
+{"level":"info","message":"server started with port : 3030","timestamp":"2024-10-30T05:26:36.734Z"}
+{"level":"info","message":"Environment: development","timestamp":"2024-10-30T05:26:36.738Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:26:36.761Z"}
+{"level":"error","message":"Uncaught exception: Error: listen EADDRINUSE: address already in use :::3030","timestamp":"2024-10-30T05:31:51.796Z"}
+{"level":"info","message":"Connected to MySQL database","timestamp":"2024-10-30T05:31:51.836Z"}

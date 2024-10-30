@@ -1,0 +1,10 @@
+{
+    "server": {
+        "CORS": {
+          "allowedHosts": [          
+            "http://localhost:3010",
+            "http://localhost:4200"
+          ]
+        }
+    }
+}
