@@ -15,7 +15,7 @@ routes(app);
 
 databaseConnection = db.conn();
 app.get('/users', (req, res) => {
-    const sql = 'SELECT * FROM mazu'; 
+    const sql = 'SELECT * FROM Customer'; 
     databaseConnection.query(sql, (err, results) => {
         if (err) {
             res.status(500).send('Error fetching data');
