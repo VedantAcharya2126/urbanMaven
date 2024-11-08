@@ -13,18 +13,6 @@ middlewares(app);
 
 routes(app);
 
-databaseConnection = db.conn();
-app.get('/users', (req, res) => {
-    const sql = 'SELECT * FROM mazu'; 
-    databaseConnection.query(sql, (err, results) => {
-        if (err) {
-            res.status(500).send('Error fetching data');
-            return;
-        }
-        res.json(results);
-    });
-});
-
 // Server Creation
 const server = http.createServer(app).listen(app.get('port'), function () {
     logger.info(`server started with port : ${config.get('server.port')}`);

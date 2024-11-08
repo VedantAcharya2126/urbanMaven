@@ -240,7 +240,7 @@ const config = convict({
             db: {
                 doc: 'Database name',
                 format: String,
-                default: 'mazuNiPari'
+                default: 'urbanMaven'
             }
         }
     },

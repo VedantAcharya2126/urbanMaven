@@ -362,6 +362,7 @@ var sanitize = function (object, schema) {
 
 	for (var key in objectKeys) {
 		var isValueMatched = false;
+		
 		for (var index in constantsValues) {
 			if (constantsValues[index].indexOf(objectKeys[key].substring(0, constantsValues[index].length)) === 0) {
 				isValueMatched = true;

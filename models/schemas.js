@@ -18,6 +18,42 @@ schemas.getCustomerData = {
     }
 };
 
+schemas.bookService = {
+    'id': '/bookService',
+    'type': 'object',
+    'properties': {
+        'customerId': {
+            'type': 'string',
+            'required': true
+        },
+        'customerName': {
+            'type': 'string',
+            'required': true
+        },
+        'professionalId': {
+            'type': 'string',
+            'required': true
+        },
+        'serviceId': {
+            'type': 'string',
+            'required': true
+        },
+        'appointmentDateTime': {
+            'type': 'string',
+            'required': true
+        },
+        'status': {
+            'type': 'string',
+            'required': true
+        },
+        'createdDate': {
+            'type': 'string',
+            'required': true
+        }
+    }
+};
+
+
 schemas.addCustomerData = {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "object",

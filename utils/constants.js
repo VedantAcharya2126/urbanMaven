@@ -18,7 +18,6 @@ var constants = {
 	},
 	keys: {
 		Data: "DT_",
-		isActive: true,
 		knowledgeBaseArticle: 'KB_ART_',
 		notification: 'NOT',
 		callDecline: "CDL",
